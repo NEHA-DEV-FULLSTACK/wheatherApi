@@ -7,10 +7,12 @@ Node.js
 Express.js
 MongoDB Atlas (Mongoose ORM)
 
-Axios (API requests)
+
 Dotenv (environment variables) ⚙️ Setup Instructions
 Clone Repository https://github.com/NEHA-DEV-FULLSTACK/wheatherApi cd weatherApi
+
 Setup Backend cd nodeBackend npm install
+
 Create a .env file with:
 MONGO_URI= mongodb://localhost:27017/WeathertestAPI
 PORT=3000
@@ -44,5 +46,6 @@ http://localhost:3000/api/event/68b021a30b8ffec7e9da775c
 
 👨‍💻 Author Neha kumari 
  Email: nehathkr03@gmail.com
+
 
 ---------------------If you have any query free feel to contact--------------
