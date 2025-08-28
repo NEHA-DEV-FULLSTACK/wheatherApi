@@ -33,19 +33,16 @@ http://localhost:3000/api/logout
 
 
 ----event api ------
-4) create whether event 
-http://localhost:3000/api/event/
+4) create whether event http://localhost:3000/api/event/
 
-5)get event by id -get
-http://localhost:3000/api/event/68b025925e9674b7701465da
-6) update event - put request
-http://localhost:3000/api/event/68b021a30b8ffec7e9da775c
+5)get event by id -get http://localhost:3000/api/event/68b025925e9674b7701465da
+6) update event - put request http://localhost:3000/api/event/68b021a30b8ffec7e9da775c
 
-7)delete event by id -delete
-http://localhost:3000/api/event/68b021a30b8ffec7e9da775c
+7)delete event by id -delete http://localhost:3000/api/event/68b021a30b8ffec7e9da775c
 
 👨‍💻 Author Neha kumari 
  Email: nehathkr03@gmail.com
 
 
 ---------------------If you have any query free feel to contact--------------
+
