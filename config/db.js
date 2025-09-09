@@ -2,7 +2,7 @@ const mongoose=require('mongoose');
 
 const ConnectDB =async()=>{
     try{
-        const uri = "mongodb+srv://nehacrypto:neha2025@mycryptodb.sizyn8q.mongodb.net/cryptodb?retryWrites=true&w=majority";
+        const uri = "mongourl";
         await mongoose.connect(uri,{
             useNewUrlParser:true,
             useUnifiedTopology:true,
@@ -13,4 +13,5 @@ const ConnectDB =async()=>{
         process.exit(1);
     }
 };
+
 module.exports=ConnectDB;
